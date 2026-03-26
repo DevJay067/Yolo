@@ -21,7 +21,8 @@ healthcare-web/
 ├── styles.css          # CSS styling
 └── README.md           # This file
 ```
-
+...
+....
 ## Installation
 
 1. **Clone the repository:**
@@ -119,3 +120,4 @@ For support or inquiries:
 **Version:** 1.0.0  
 **Last Updated:** March 2026  
 **Status:** Active Development
+...
